@@ -37,22 +37,22 @@ familiarity with mobile test automation frameworks.
      appium-doctor --android
      appium -v
       ```
-     <img alt="Completion Certificate" src="./appium_doctor.png"> </img>
+     <img alt="Completion Certificate" src="./imgif/appium_doctor.png"> </img>
   - [Open](https://appium.io/docs/en/latest/) Appium GUI Desktop
   - JAVA_HOME setup in Environmental Variable.
-    - <img alt="Completion Certificate" src="./javaHome.png"> </img>
-    - <img alt="Completion Certificate" src="./javaHomePath.png"> </img>
+    - <img alt="Completion Certificate" src="./imgif/javaHome.png"> </img>
+    - <img alt="Completion Certificate" src="./imgif/javaHomePath.png"> </img>
   - USB Connector for real Devices and Being Developer in Android.
     <details>
      <summary>Gif</summary>
-     <img alt="Completion Certificate" src="./usb.gif"> </img>
+     <img alt="Completion Certificate" src="./imgif/usb.gif"> </img>
     </details>
   - [Vysor app](https://www.vysor.io/) for both Android and Laptop/Desktop.
   - Apkinfo app - for appActivity and appPackage
     <details align = "center">
      <summary align = "left">Gif</summary>
-     <img alt="Completion Certificate" src="./appActivity.gif" width=50%> </img>
-     <img alt="Completion Certificate" src="./appPackage.gif" width=50%> </img>
+     <img alt="Completion Certificate" src="./imgif/appActivity.gif" width=50%> </img>
+     <img alt="Completion Certificate" src="./imgif/appPackage.gif" width=50%> </img>
     </details>
    
 
