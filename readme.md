@@ -3,7 +3,7 @@
  - [Click here](https://github.com/RouthKiranBabu/Masai-School-Journey/blob/main/Assignment/Mobile%20Testing/Level%20Supermind%20Assignment/readme.md#pre-requisites) Pre-requisites
  - [Click here](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Appium) Manual Testing Approach/Resources to Learn
 # Document 
-###### Received Date: 7th Feb, 2024
+###### Received Date: 7th Feb, 2024 
 ## Task Description:
 Develop automated test scripts to validate the login functionality of our Android and iOS
 applications.
@@ -109,3 +109,4 @@ b --> readme.md
 # Appium Code Learning/Resources
 - [Link1](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Assignment/Mobile%20Testing)
 - [Link2](https://github.com/RouthKiranBabu/Masai-School-Journey/tree/main/Lectures/Appium)
+
